@@ -1,18 +1,20 @@
 h1{
-		font-size: 40px;
-		color: darkcyan;
+		font-size: 50px;
+		color: paleturquoise;
 	}
 
 
 h2{
-		font-size: 20px;
-		color: aqua;
+		font-size: 40px;
+		color: #4CA948
 	}
 
 	
 	.
 
-	.Fat{ font-size: 70px; }
+	.Fat{ font-size: 37px;
+	color: hotpink; 
+}
 
 
 	
@@ -27,5 +29,12 @@ h2{
 	}
 
 body{
-	background-color: lightslategrey;
+	background-color: #F7F7F7
 }
+
+p{
+
+	font-size: 30px;
+}
+
+
